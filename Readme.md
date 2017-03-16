@@ -1,11 +1,12 @@
 A programming kata is an exercise which helps a programmer hone his skills through practice and repetition.
 
 # Kata: Fizz Buzz
-For a given natural number greater than zero return:  
+For a given natural number greater than zero return: 
+
 * “fizz” if the number is dividable by 3  
 * “buzz” if the number is dividable by 5  
 * “fizzbuzz” if the number is dividable by 15  
-* the same number if no other requirement is fulfilled 
+* the same number if no other requirement is fulfilled   
 * https://technologyconversations.com/2014/03/12/java-tutorial-through-katas-fizz-buzz-easy/
 
 # Kata: Mars Rover
