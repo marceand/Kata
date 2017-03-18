@@ -9,6 +9,15 @@ For a given natural number greater than zero return:
 * the same number if no other requirement is fulfilled   
 * https://technologyconversations.com/2014/03/12/java-tutorial-through-katas-fizz-buzz-easy/
 
+# Calc Stats
+Your task is to process a sequence of integer numbers
+to determine the following statistics:
+
+* minimum value
+* maximum value
+* number of elements in the sequence
+* average value
+
 # Kata: Mars Rover
 Develop an api that moves a rover around on a grid.
   
